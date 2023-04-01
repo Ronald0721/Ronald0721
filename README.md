@@ -1,4 +1,7 @@
 ### Hi there 👋
+- 😄 I'm Ronald, a full stack web developer based in the Philippines.
+
+For a deeper dive into who I am, check out my [personal website](https://ronald0721.github.io/rnld/).
 
 <!--
 **Ronald0721/Ronald0721** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
