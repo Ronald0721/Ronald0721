@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 😄 I'm Ronald, a full stack web developer based in the Philippines.
+- 😄 I'm Ronald, a full stack developer based in the Philippines.
 
 For a deeper dive into who I am, check out my [personal website](https://ronald0721.github.io/rnld/).
 
